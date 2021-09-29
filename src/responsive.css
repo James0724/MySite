@@ -1,0 +1,20 @@
+@media (min-width: 320px) and (max-width: 480px) {
+	.font-pri {
+		font-size: 36px;
+	}
+	.font-sec {
+		font-size: 22px;
+	}
+	.desc {
+		font-size: 16px;
+	}
+
+	/* ==========================================================================
+   Navbar Style
+   ========================================================================== */
+
+	.home-banner:after {
+		width: 80vh;
+		height: 80vh;
+	}
+}
