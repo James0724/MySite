@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/MySite/static/css/main.aaa882d1.chunk.css",
-    "main.js": "/MySite/static/js/main.3ff904f8.chunk.js",
-    "main.js.map": "/MySite/static/js/main.3ff904f8.chunk.js.map",
+    "main.css": "/MySite/static/css/main.e9b8a237.chunk.css",
+    "main.js": "/MySite/static/js/main.79e376ad.chunk.js",
+    "main.js.map": "/MySite/static/js/main.79e376ad.chunk.js.map",
     "runtime-main.js": "/MySite/static/js/runtime-main.292f3ac4.js",
     "runtime-main.js.map": "/MySite/static/js/runtime-main.292f3ac4.js.map",
-    "static/js/2.20051347.chunk.js": "/MySite/static/js/2.20051347.chunk.js",
-    "static/js/2.20051347.chunk.js.map": "/MySite/static/js/2.20051347.chunk.js.map",
+    "static/js/2.ac5f4554.chunk.js": "/MySite/static/js/2.ac5f4554.chunk.js",
+    "static/js/2.ac5f4554.chunk.js.map": "/MySite/static/js/2.ac5f4554.chunk.js.map",
     "index.html": "/MySite/index.html",
-    "static/css/main.aaa882d1.chunk.css.map": "/MySite/static/css/main.aaa882d1.chunk.css.map",
-    "static/js/2.20051347.chunk.js.LICENSE.txt": "/MySite/static/js/2.20051347.chunk.js.LICENSE.txt"
+    "static/css/main.e9b8a237.chunk.css.map": "/MySite/static/css/main.e9b8a237.chunk.css.map",
+    "static/js/2.ac5f4554.chunk.js.LICENSE.txt": "/MySite/static/js/2.ac5f4554.chunk.js.LICENSE.txt",
+    "static/media/icofont.css": "/MySite/static/media/icofont.dad3accb.woff",
+    "static/media/site1.86bd1a7f.jpg": "/MySite/static/media/site1.86bd1a7f.jpg",
+    "static/media/valiosa.ad394011.gif": "/MySite/static/media/valiosa.ad394011.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.292f3ac4.js",
-    "static/js/2.20051347.chunk.js",
-    "static/css/main.aaa882d1.chunk.css",
-    "static/js/main.3ff904f8.chunk.js"
+    "static/js/2.ac5f4554.chunk.js",
+    "static/css/main.e9b8a237.chunk.css",
+    "static/js/main.79e376ad.chunk.js"
   ]
 }
